@@ -1,6 +1,6 @@
 # A simple calculator application using Tkinter
 # by Clayton Clostio
-
+# ad lib
 import tkinter as tk
 
 class Calculator:
